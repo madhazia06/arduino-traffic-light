@@ -18,8 +18,6 @@ It uses three LEDs (Red, Yellow, Blue/Green) to represent real-world traffic sig
 
 ## Circuit Diagram & Schematic
 
-### Image View
 ![Traffic Signal Circuit](https://github.com/madhazia06/arduino-traffic-light/blob/main/Traffic%20Signals.png)
 
-### PDF Version
-For a detailed view of connections and pin mapping, see the [Traffic Signals Schematic (PDF)](https://github.com/madhazia06/arduino-traffic-light/blob/main/Traffic%20Signals.pdf).
+![Traffic Signal Circuit](https://github.com/madhazia06/arduino-traffic-light/blob/main/Traffic%20Signals_circuit.jpg)
