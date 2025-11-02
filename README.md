@@ -1,6 +1,6 @@
 # Arduino Traffic Light Project
 This project simulates a **traffic light system** using **Arduino Uno** and **C++**.  
-It uses three LEDs (Red, Yellow, Blue/Green) to represent real-world traffic signal timing — red for stop, yellow for caution (including a blinking phase), and blue/green for go.
+It uses three LEDs (Red, Yellow, Green) to represent real-world traffic signal timing — red for stop, yellow for caution (including a blinking phase), and green for go.
 
 ---
 
@@ -13,6 +13,12 @@ It uses three LEDs (Red, Yellow, Blue/Green) to represent real-world traffic sig
   - 3 × 220Ω Resistors
   - 1 × Breadboard
   - Jumper Wires
+
+---
+
+## Tinkercad Simulation
+Try the circuit live on Tinkercad:  
+[Open Simulation in Tinkercad](https://www.tinkercad.com/things/eDX8rFddtlV-traffic-signals?sharecode=YD2DxQSenhQuEfMy8w0hDH4PZGXIhye2vz_rAEgwtBA)
 
 ---
 
